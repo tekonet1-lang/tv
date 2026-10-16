@@ -301,8 +301,6 @@ http://181.66.249.246:8000/play/a0ij/index.m3u8
 http://181.66.249.246:8000/play/a00n/index.m3u8
 #EXTINF:-1 group-title="-",SUPER CANAL TV
 http://181.66.249.246:8000/play/a0ii/index.m3u8
-#EXTINF:-1 group-title="-",Sextreme
-http://181.66.249.246:8000/play/a0ha/index.m3u8
 #EXTINF:-1 group-title="-" tvg-id="75",Sin Limites
 http://181.66.249.246:8000/play/a027/index.m3u8
 #EXTINF:-1 group-title="-" tvg-id="89",Sony
