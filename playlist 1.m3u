@@ -397,8 +397,6 @@ http://181.66.249.246:8000/play/a050/index.m3u8
 http://181.66.249.246:8000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="-",Univision HD
 http://181.66.249.246:8000/play/a0jv/index.m3u8
-#EXTINF:-1 group-title="-",Venus
-http://181.66.249.246:8000/play/a0i8/index.m3u8
 #EXTINF:-1 group-title="-" tvg-id="17",Via Television
 http://181.66.249.246:8000/play/a04b/index.m3u8
 #EXTINF:-1 group-title="-" tvg-id="61",ViaX
