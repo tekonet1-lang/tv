@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Anatomía de Grey S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujqe9VoE21oVPvL6cJtEqNpq9VN.jpg" group-title="DISNEY - Star+",Anatomía de Grey S01 E01
+http://planettvweb.com:8091/series/JoseGut/MDan3175/128997.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anatomía de Grey S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUZqLPPhBBO2lrpQEjAYV4X1jw6.jpg" group-title="DISNEY - Star+",Anatomía de Grey S01 E02
+http://planettvweb.com:8091/series/JoseGut/MDan3175/128998.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anatomía de Grey S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/drccrJ4D5t6weRVljBmEeF27EZk.jpg" group-title="DISNEY - Star+",Anatomía de Grey S01 E03
+http://planettvweb.com:8091/series/JoseGut/MDan3175/128999.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anatomía de Grey S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7ensI2tBmsoxPzSJGkQJ5Tja7q.jpg" group-title="DISNEY - Star+",Anatomía de Grey S01 E04
+http://planettvweb.com:8091/series/JoseGut/MDan3175/129000.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anatomía de Grey S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uudOHWmFPnSsB8CgKJS1zJFeCUo.jpg" group-title="DISNEY - Star+",Anatomía de Grey S01 E05
+http://planettvweb.com:8091/series/JoseGut/MDan3175/129001.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anatomía de Grey S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpM6NTHIfIsUbTuGxC4Oe6yv0bB.jpg" group-title="DISNEY - Star+",Anatomía de Grey S01 E06
+http://planettvweb.com:8091/series/JoseGut/MDan3175/129002.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anatomía de Grey S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tW3SNVhgk4lCKIoGc6eMavYUcP.jpg" group-title="DISNEY - Star+",Anatomía de Grey S01 E07
+http://planettvweb.com:8091/series/JoseGut/MDan3175/129003.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anatomía de Grey S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zf18vQ3keOjJyq0OhsXgddUHGvW.jpg" group-title="DISNEY - Star+",Anatomía de Grey S01 E08
+http://planettvweb.com:8091/series/JoseGut/MDan3175/129004.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anatomía de Grey S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28UliqxlAfGldv8UX0rAS5MkNVq.jpg" group-title="DISNEY - Star+",Anatomía de Grey S01 E09
+http://planettvweb.com:8091/series/JoseGut/MDan3175/129005.mkv
 #EXTINF:-1 group-title="-",A&E HD
 http://181.66.249.246:8000/play/a0j7/index.m3u8
 #EXTINF:-1 group-title="-",A&E HD
